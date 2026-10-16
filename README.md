@@ -4,17 +4,17 @@
 
 | Field | Detail |
 |---|---|
+| Project ID | MTL-XF-017 |
 | Client | Confidential Regional Flood & Climate Resilience Authority |
 | Sector | Environment / Flood Risk / Capital Investment |
 | Duration | 8 weeks |
-| Recommended team | 6–8 |
-| Sponsor | Director of Flood & Coastal Risk Management |
-| Engagement | Simulated confidential-client engagement |
+| Recommended Team Size | 6–8 |
+| Primary Sponsor | Director of Flood & Coastal Risk Management |
 
-The authority has more maintenance and resilience needs than available capital. Programme teams cannot consistently compare scheme priority, funding allocation, delivery status and evidence of risk reduction across one governed view.
+The authority has more flood-defence maintenance and resilience needs than available capital. Programme information exists, but leadership cannot consistently compare scheme readiness, funding allocation, regional concentration and evidence limitations within one governed prioritisation process.
 
-**Commissioned decision:** Which flood-defence schemes or asset interventions should receive the earliest investment attention, and how should leadership balance risk, delivery readiness, funding and evidence limitations?
+**Decision to support:** Which flood-defence schemes or asset interventions should receive the earliest investment attention, and where is the current evidence insufficient to justify prioritisation?
 
-This is an end-to-end multidisciplinary engagement, not a dashboard-only exercise.
+This is an end-to-end delivery engagement, not a dashboard-only exercise.
 
-Start with the project, governance, data and submission documents in this repository. Each team creates its delivery repository under the **Mettelo GitHub organisation** and adds every team member using their individual GitHub account.
+Start with [Project Brief](project/PROJECT_BRIEF.md), [Business Context](project/BUSINESS_CONTEXT.md), [Deliverables](project/DELIVERABLES.md), [Acceptance Criteria](project/ACCEPTANCE_CRITERIA.md), [Governance](project/GOVERNANCE.md), [Data](data/README.md) and [Submission Guide](submission/SUBMISSION_GUIDE.md).

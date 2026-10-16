@@ -1,31 +1,31 @@
 # Business Context
 
-## Simulated Client
+## Client
 **Confidential Regional Flood & Climate Resilience Authority**
 
-## Pressure
-The authority has more maintenance and resilience needs than available capital. Programme teams cannot consistently compare scheme priority, funding allocation, delivery status and evidence of risk reduction across one governed view.
+## Problem
+The authority has more flood-defence maintenance and resilience needs than available capital. Programme information exists, but leadership cannot consistently compare scheme readiness, funding allocation, regional concentration and evidence limitations within one governed prioritisation process.
 
-## Executive Decision
-**Which flood-defence schemes or asset interventions should receive the earliest investment attention, and how should leadership balance risk, delivery readiness, funding and evidence limitations?**
+## Decision Owner
+**Director of Flood & Coastal Risk Management**
 
 ## Stakeholders
-- **Director of Flood & Coastal Risk Management:** sponsor and decision owner.
-- **Operational/Programme Lead:** tests practical use.
-- **Data Owner/Steward:** owns definitions and quality challenge.
-- **Finance/Risk/Performance stakeholder:** tests materiality and prioritisation.
-- **Data & Analytics Lead:** owns technical quality.
-- **End users:** complete UAT.
+Capital Programme Lead, Asset Management Lead, Finance Business Partner, Climate Resilience Lead, GIS Lead, Data Governance Lead, Performance & Assurance Lead
 
-## Delivery Roles
-| Role | Expected contribution |
+## Decision
+**Which flood-defence schemes or asset interventions should receive the earliest investment attention, and where is the current evidence insufficient to justify prioritisation?**
+
+## Role Responsibilities
+| Role | Required contribution |
 |---|---|
-| Business Analyst | Define investment decision, stakeholder needs, constraints and acceptance criteria. |
-| Data Governance Analyst | Govern scheme identifiers, funding fields, ownership, definitions and lineage. |
-| Data Engineer | Build reproducible ingestion of programme/asset data. |
-| Flood Risk/Data Analyst | Analyse investment patterns, scheme portfolio and delivery pressure. |
-| GIS Analyst | Assess spatial distribution and regional concentration appropriately. |
-| BI Developer | Build capital-programme and prioritisation views. |
-| Investment/Risk Analyst | Challenge decision criteria, materiality and evidence gaps. |
+| Business Analyst | Define capital decision process, stakeholder needs, investment questions and acceptance criteria. |
+| Data Governance Analyst | Govern scheme identifiers, status, funding, geography, lineage and DQ rules. |
+| Data Engineer | Build reproducible programme-data ingestion and curated scheme model. |
+| Flood Risk/Data Analyst | Own portfolio, funding, status and scheme-priority analysis. |
+| GIS Analyst | Assess regional distribution and map only supported geography. |
+| BI Developer | Build capital-programme portfolio and prioritisation views. |
+| Investment/Risk Analyst | Challenge materiality, evidence gaps and prioritisation rules. |
+| Assurance Analyst | Own reconciliation, scenario checks and UAT. |
 
-The project succeeds when it leaves behind a trusted decision process, not merely a visualisation.
+## Evidence Chain
+**Requirement → governed definition → transformation → quality control → metric/analysis → decision insight → recommendation → UAT**
